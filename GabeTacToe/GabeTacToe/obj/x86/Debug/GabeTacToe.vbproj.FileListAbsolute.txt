@@ -1,0 +1,14 @@
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\bin\Debug\GabeTacToe.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\bin\Debug\GabeTacToe.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\bin\Debug\GabeTacToe.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\GabeTacToe.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\GabeTacToe.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\Visual Studio 2010\Projects\GabeTacToe\GabeTacToe\obj\x86\Debug\GabeTacToe.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\GabeTacToe\GabeTacToe\obj\x86\Debug\GabeTacToe.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\GabeTacToe\GabeTacToe\obj\x86\Debug\GabeTacToe.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\GabeTacToe\GabeTacToe\obj\x86\Debug\GabeTacToe.pdb
