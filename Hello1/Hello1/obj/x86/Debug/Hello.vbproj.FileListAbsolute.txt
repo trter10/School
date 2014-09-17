@@ -1,0 +1,9 @@
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\bin\Debug\Hello.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\bin\Debug\Hello.pdb
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\bin\Debug\Hello.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\obj\x86\Debug\Hello.Form1.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\obj\x86\Debug\Hello.Resources.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\obj\x86\Debug\Hello.vbproj.GenerateResource.Cache
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\obj\x86\Debug\Hello.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\obj\x86\Debug\Hello.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Hello\obj\x86\Debug\Hello.pdb

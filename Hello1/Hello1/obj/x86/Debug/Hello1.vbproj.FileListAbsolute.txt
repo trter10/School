@@ -1,0 +1,18 @@
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\bin\Debug\Hello1.exe
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\bin\Debug\Hello1.pdb
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\bin\Debug\Hello1.xml
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\obj\x86\Debug\Hello.Form1.resources
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\obj\x86\Debug\Hello.Resources.resources
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\obj\x86\Debug\Hello1.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\obj\x86\Debug\Hello1.exe
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\obj\x86\Debug\Hello1.xml
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Hello1\Hello1\obj\x86\Debug\Hello1.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\obj\x86\Debug\Hello1.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\obj\x86\Debug\Hello1.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\obj\x86\Debug\Hello1.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\bin\Debug\Hello1.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\bin\Debug\Hello1.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\bin\Debug\Hello1.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\obj\x86\Debug\Hello.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\obj\x86\Debug\Hello.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Hello1\Hello1\obj\x86\Debug\Hello1.vbproj.GenerateResource.Cache

@@ -33,7 +33,7 @@
         For Each ctrl As Control In Me.Panel1.Controls
             ctrl.Text = ""
         Next
-        'Me.BackgroundImage = WindowsApplication1.My.Resources.Resources.download
+        Me.BackgroundImage = WindowsApplication1.My.Resources.Resources.download
     End Sub
 
     'Private Sub log(ByVal text)
