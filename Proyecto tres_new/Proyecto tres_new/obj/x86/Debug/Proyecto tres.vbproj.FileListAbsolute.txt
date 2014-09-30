@@ -1,0 +1,9 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\bin\Debug\Proyecto tres.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\bin\Debug\Proyecto tres.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\bin\Debug\Proyecto tres.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\obj\x86\Debug\Proyecto_tres.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\obj\x86\Debug\Proyecto_tres.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\obj\x86\Debug\Proyecto tres.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\obj\x86\Debug\Proyecto tres.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\obj\x86\Debug\Proyecto tres.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Proyecto tres\obj\x86\Debug\Proyecto tres.pdb

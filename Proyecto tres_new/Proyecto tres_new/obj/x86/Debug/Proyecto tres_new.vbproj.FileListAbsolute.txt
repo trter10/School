@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\bin\Debug\Proyecto tres_new.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\bin\Debug\Proyecto tres_new.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\bin\Debug\Proyecto tres_new.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto_tres.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto_tres.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.pdb

@@ -38,6 +38,7 @@ Partial Class Form1
         '
         'btnHello
         '
+        Me.btnHello.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.btnHello.Location = New System.Drawing.Point(111, 36)
         Me.btnHello.Name = "btnHello"
         Me.btnHello.Size = New System.Drawing.Size(97, 23)
@@ -47,7 +48,7 @@ Partial Class Form1
         '
         'lblMessage
         '
-        Me.lblMessage.Font = New System.Drawing.Font("Comic Sans MS", 21.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblMessage.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.lblMessage.Location = New System.Drawing.Point(19, 215)
         Me.lblMessage.Name = "lblMessage"
         Me.lblMessage.Size = New System.Drawing.Size(295, 56)
@@ -58,6 +59,7 @@ Partial Class Form1
         Me.grpChoices.Controls.Add(Me.radGerman)
         Me.grpChoices.Controls.Add(Me.radFrench)
         Me.grpChoices.Controls.Add(Me.radEnglish)
+        Me.grpChoices.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.grpChoices.Location = New System.Drawing.Point(12, 90)
         Me.grpChoices.Name = "grpChoices"
         Me.grpChoices.Size = New System.Drawing.Size(131, 100)
@@ -68,9 +70,10 @@ Partial Class Form1
         'radGerman
         '
         Me.radGerman.AutoSize = True
+        Me.radGerman.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.radGerman.Location = New System.Drawing.Point(7, 68)
         Me.radGerman.Name = "radGerman"
-        Me.radGerman.Size = New System.Drawing.Size(62, 17)
+        Me.radGerman.Size = New System.Drawing.Size(64, 19)
         Me.radGerman.TabIndex = 2
         Me.radGerman.TabStop = True
         Me.radGerman.Text = "German"
@@ -79,9 +82,10 @@ Partial Class Form1
         'radFrench
         '
         Me.radFrench.AutoSize = True
+        Me.radFrench.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.radFrench.Location = New System.Drawing.Point(7, 44)
         Me.radFrench.Name = "radFrench"
-        Me.radFrench.Size = New System.Drawing.Size(58, 17)
+        Me.radFrench.Size = New System.Drawing.Size(60, 19)
         Me.radFrench.TabIndex = 1
         Me.radFrench.TabStop = True
         Me.radFrench.Text = "French"
@@ -90,9 +94,10 @@ Partial Class Form1
         'radEnglish
         '
         Me.radEnglish.AutoSize = True
+        Me.radEnglish.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.radEnglish.Location = New System.Drawing.Point(7, 20)
         Me.radEnglish.Name = "radEnglish"
-        Me.radEnglish.Size = New System.Drawing.Size(59, 17)
+        Me.radEnglish.Size = New System.Drawing.Size(62, 19)
         Me.radEnglish.TabIndex = 0
         Me.radEnglish.TabStop = True
         Me.radEnglish.Text = "English"
@@ -103,6 +108,7 @@ Partial Class Form1
         Me.grpChoices2.Controls.Add(Me.chkGerman)
         Me.grpChoices2.Controls.Add(Me.chkFrench)
         Me.grpChoices2.Controls.Add(Me.chkEnglish)
+        Me.grpChoices2.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.grpChoices2.Location = New System.Drawing.Point(179, 91)
         Me.grpChoices2.Name = "grpChoices2"
         Me.grpChoices2.Size = New System.Drawing.Size(135, 99)
@@ -113,9 +119,10 @@ Partial Class Form1
         'chkGerman
         '
         Me.chkGerman.AutoSize = True
+        Me.chkGerman.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.chkGerman.Location = New System.Drawing.Point(7, 69)
         Me.chkGerman.Name = "chkGerman"
-        Me.chkGerman.Size = New System.Drawing.Size(63, 17)
+        Me.chkGerman.Size = New System.Drawing.Size(65, 19)
         Me.chkGerman.TabIndex = 2
         Me.chkGerman.Text = "German"
         Me.chkGerman.UseVisualStyleBackColor = True
@@ -123,9 +130,10 @@ Partial Class Form1
         'chkFrench
         '
         Me.chkFrench.AutoSize = True
+        Me.chkFrench.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.chkFrench.Location = New System.Drawing.Point(7, 45)
         Me.chkFrench.Name = "chkFrench"
-        Me.chkFrench.Size = New System.Drawing.Size(59, 17)
+        Me.chkFrench.Size = New System.Drawing.Size(61, 19)
         Me.chkFrench.TabIndex = 1
         Me.chkFrench.Text = "French"
         Me.chkFrench.UseVisualStyleBackColor = True
@@ -133,9 +141,10 @@ Partial Class Form1
         'chkEnglish
         '
         Me.chkEnglish.AutoSize = True
+        Me.chkEnglish.Font = New System.Drawing.Font("Comic Sans MS", 8.25!)
         Me.chkEnglish.Location = New System.Drawing.Point(7, 20)
         Me.chkEnglish.Name = "chkEnglish"
-        Me.chkEnglish.Size = New System.Drawing.Size(60, 17)
+        Me.chkEnglish.Size = New System.Drawing.Size(63, 19)
         Me.chkEnglish.TabIndex = 0
         Me.chkEnglish.Text = "English"
         Me.chkEnglish.UseVisualStyleBackColor = True

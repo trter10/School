@@ -1,0 +1,9 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\bin\Debug\FrazierMints_Test3.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\bin\Debug\FrazierMints_Test3.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\bin\Debug\FrazierMints_Test3.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\obj\x86\Debug\FrazierMints_Test3.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\obj\x86\Debug\FrazierMints_Test3.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\obj\x86\Debug\FrazierMints_Test3.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\obj\x86\Debug\FrazierMints_Test3.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\obj\x86\Debug\FrazierMints_Test3.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\FrazierMints_Test3\obj\x86\Debug\FrazierMints_Test3.pdb
