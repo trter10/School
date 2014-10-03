@@ -1,0 +1,19 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\bin\Debug\Honors Project 2.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\bin\Debug\Honors Project 2.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\bin\Debug\Honors Project 2.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\obj\x86\Debug\Honors_Project_2.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\obj\x86\Debug\Honors_Project_2.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\obj\x86\Debug\Honors Project 2.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\obj\x86\Debug\Honors Project 2.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\obj\x86\Debug\Honors Project 2.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Honors Project 2\obj\x86\Debug\Honors Project 2.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\obj\x86\Debug\Honors Project 2.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\obj\x86\Debug\Honors Project 2.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\obj\x86\Debug\Honors Project 2.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\bin\Debug\Honors Project 2.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\bin\Debug\Honors Project 2.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\bin\Debug\Honors Project 2.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\obj\x86\Debug\Honors_Project_2.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\obj\x86\Debug\Honors_Project_2.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\obj\x86\Debug\Honors Project 2.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Honors Project 2\Honors Project 2\bin\Debug\Honors Project 2.exe.config

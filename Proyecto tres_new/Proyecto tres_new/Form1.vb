@@ -1,10 +1,10 @@
 ﻿Public Class Form1
     'Define global vars
-    Public times As Integer
-    Dim Ameno As Uri = New Uri("http://www.youtube.com/embed/RkZkekS8NQU?autoplay=1&loop=1")
-    Dim dummyUri As Uri = New Uri("http://1.1.1.1")
-    Dim changedImage As Bitmap = CType(Proyecto_tres.My.Resources.Resources.doge, Bitmap)
-    Public crazy As Boolean = False
+    Public intTimes As Integer
+    Dim uriAmeno As Uri = New Uri("http://www.youtube.com/embed/RkZkekS8NQU?autoplay=1&loop=1")
+    Dim uriDummy As Uri = New Uri("http://1.1.1.1")
+    Dim bmpChangedImage As Bitmap = CType(Proyecto_tres.My.Resources.Resources.doge, Bitmap)
+    Public blnCrazy As Boolean = False
 
     Private Sub picDoge_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles picDoge.Click
         'Remove label if it's visible
@@ -12,8 +12,8 @@
             lblClick.Visible = False
         End If
 
-        'Increment times
-        times += 1
+        'Increment intTimes
+        intTimes += 1
 
         'Get random integer within the size of the form
         Dim converter As System.ComponentModel.TypeConverter = _
@@ -23,37 +23,39 @@
 
         'Move and rotate(?) the image
         picDoge.Location = point1
-        txtLog.Text = txtLog.Text & times & ": " & point1.ToString & vbCrLf
+        txtLog.Text = txtLog.Text & intTimes & ": " & point1.ToString & vbCrLf
         txtLog.Select(txtLog.TextLength, 0)
         txtLog.ScrollToCaret()
-        If crazy Then
-            changedImage.RotateFlip(RotateFlipType.Rotate180FlipX)
+        If blnCrazy Then
+            bmpChangedImage.RotateFlip(RotateFlipType.Rotate180FlipX)
             If CInt(System.DateTime.Now.Millisecond) Mod 2 = 0 Then
-                changedImage.RotateFlip(RotateFlipType.Rotate180FlipY)
+                bmpChangedImage.RotateFlip(RotateFlipType.Rotate180FlipY)
             End If
-            picDoge.Image = changedImage
+            picDoge.Image = bmpChangedImage
         End If
 
         'Change label
-        lblTimes.Text = "Times doged: " & times
+        lblTimes.Text = "Times doged: " & intTimes
         Me.Refresh()
     End Sub
 
     Private Sub chkMusic_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles chkMusic.CheckedChanged
         If chkMusic.Checked Then
-            webAmeno.Url = Ameno
+            'Turn on music
+            webAmeno.Url = uriAmeno
             webAmeno.Refresh()
         Else
-            webAmeno.Url = dummyUri
+            'Turn off music
+            webAmeno.Url = uriDummy
             webAmeno.Refresh()
         End If
     End Sub
 
     Private Sub chkCrazy_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles chkCrazy.CheckedChanged
         If chkCrazy.Checked Then
-            Me.crazy = True
+            Me.blnCrazy = True
         Else
-            Me.crazy = False
+            Me.blnCrazy = False
         End If
     End Sub
 
@@ -70,7 +72,8 @@
     End Sub
 
     Private Sub JosesCrustToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles JosesCrustToolStripMenuItem.Click
-        For yolo As Integer = 1 To 1337
+        'Go insane
+        For memes As Integer = 1 To 1337
             picDoge_Click(Me, e)
         Next
     End Sub

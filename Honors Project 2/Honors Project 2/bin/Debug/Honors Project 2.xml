@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HonorsProject2
+</name>
+</assembly>
+<members>
+<member name="P:Honors_Project_2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Honors_Project_2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Honors_Project_2.My.Resources.Resources.bernersLeeInfo">
+	<summary>
+  Looks up a localized string similar to Tim Berners-Lee is the founder of the World Wide Web, director of the World Wide Web Consortium (W3C), and founded the World Wide Web Foundation..
+</summary>
+</member><member name="P:Honors_Project_2.My.Resources.Resources.Gaben">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Honors_Project_2.My.Resources.Resources.gabenInfo">
+	<summary>
+  Looks up a localized string similar to Gabe Newell is the Managing Director of Valve. He is the creator of Steam and of many games on the platform..
+</summary>
+</member><member name="P:Honors_Project_2.My.Resources.Resources.RMSInfo">
+	<summary>
+  Looks up a localized string similar to Richard Stallman is an activist for Free Software and a computer programmer. He launched the GNU project, which spawned the GNU Compiler Collection and Emacs, wrote the GNU General Public License (GPL), launched the Free Software Foundation (FSF), and pioneered the concept of copyleft..
+</summary>
+</member><member name="P:Honors_Project_2.My.Resources.Resources.torvaldsInfo">
+	<summary>
+  Looks up a localized string similar to Linus Torvalds is the main force behind the creation of the Linux kernel. He is now the coordinator of the project. He is also the creator of Git, a version control system which is widely used in the field of computer science..
+</summary>
+</member><member name="T:Honors_Project_2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

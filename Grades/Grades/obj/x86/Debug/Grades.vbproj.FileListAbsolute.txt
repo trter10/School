@@ -1,0 +1,12 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.pdb

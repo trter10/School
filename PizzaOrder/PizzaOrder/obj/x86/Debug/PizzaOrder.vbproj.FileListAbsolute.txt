@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.pdb

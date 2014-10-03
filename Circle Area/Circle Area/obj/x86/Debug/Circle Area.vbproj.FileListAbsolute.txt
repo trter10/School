@@ -1,0 +1,18 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\bin\Debug\Circle Area.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\bin\Debug\Circle Area.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\bin\Debug\Circle Area.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\obj\x86\Debug\Circle_Area.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\obj\x86\Debug\Circle_Area.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\obj\x86\Debug\Circle Area.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\obj\x86\Debug\Circle Area.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\obj\x86\Debug\Circle Area.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Circle Area\obj\x86\Debug\Circle Area.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\obj\x86\Debug\Circle Area.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\obj\x86\Debug\Circle Area.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\obj\x86\Debug\Circle Area.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\bin\Debug\Circle Area.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\bin\Debug\Circle Area.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\bin\Debug\Circle Area.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\obj\x86\Debug\Circle_Area.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\obj\x86\Debug\Circle_Area.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Circle Area\Circle Area\obj\x86\Debug\Circle Area.vbproj.GenerateResource.Cache

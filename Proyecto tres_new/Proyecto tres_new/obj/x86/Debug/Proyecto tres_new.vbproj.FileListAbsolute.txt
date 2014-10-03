@@ -7,3 +7,7 @@
 \\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.exe
 \\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.xml
 \\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\bin\Debug\Proyecto tres_new.exe.manifest
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\bin\Debug\Proyecto tres_new.application
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.exe.manifest
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Proyecto tres_new\Proyecto tres_new\obj\x86\Debug\Proyecto tres_new.application

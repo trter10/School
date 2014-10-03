@@ -1,0 +1,12 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\bin\Debug\Scope.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\bin\Debug\Scope.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\bin\Debug\Scope.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Scope\Scope\obj\x86\Debug\Scope.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Scope\Scope\obj\x86\Debug\Scope.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Scope\Scope\obj\x86\Debug\Scope.pdb
