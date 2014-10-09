@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\bin\Debug\Donut.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\bin\Debug\Donut.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\bin\Debug\Donut.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\obj\x86\Debug\Donut.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\obj\x86\Debug\Donut.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\obj\x86\Debug\Donut.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\obj\x86\Debug\Donut.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\obj\x86\Debug\Donut.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Donut\Donut\obj\x86\Debug\Donut.pdb
