@@ -1,0 +1,12 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\bin\Debug\Summing.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\bin\Debug\Summing.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\bin\Debug\Summing.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Summing\obj\x86\Debug\Summing.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Summing\Summing\obj\x86\Debug\Summing.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Summing\Summing\obj\x86\Debug\Summing.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Summing\Summing\obj\x86\Debug\Summing.pdb

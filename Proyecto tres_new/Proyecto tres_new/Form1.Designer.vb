@@ -34,6 +34,7 @@ Partial Class Form1
         Me.chkCrazy = New System.Windows.Forms.CheckBox()
         Me.chkMusic = New System.Windows.Forms.CheckBox()
         Me.txtLog = New System.Windows.Forms.TextBox()
+        Me.NoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         CType(Me.picDoge, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
         Me.grpSettings.SuspendLayout()
@@ -81,7 +82,7 @@ Partial Class Form1
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ExitToolStripMenuItem, Me.JosesCrustToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ExitToolStripMenuItem, Me.JosesCrustToolStripMenuItem, Me.NoToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(584, 24)
@@ -159,6 +160,12 @@ Partial Class Form1
         Me.txtLog.TabIndex = 6
         Me.txtLog.Visible = False
         '
+        'NoToolStripMenuItem
+        '
+        Me.NoToolStripMenuItem.Name = "NoToolStripMenuItem"
+        Me.NoToolStripMenuItem.Size = New System.Drawing.Size(33, 20)
+        Me.NoToolStripMenuItem.Text = "no"
+        '
         'Form1
         '
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
@@ -198,5 +205,6 @@ Partial Class Form1
     Friend WithEvents chkLog As System.Windows.Forms.CheckBox
     Friend WithEvents txtLog As System.Windows.Forms.TextBox
     Friend WithEvents JosesCrustToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents NoToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class

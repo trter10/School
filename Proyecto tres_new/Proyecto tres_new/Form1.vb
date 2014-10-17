@@ -77,4 +77,10 @@
             picDoge_Click(Me, e)
         Next
     End Sub
+
+    Private Sub NoToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles NoToolStripMenuItem.Click
+        For memes As Integer = 1 To 1337
+            MessageBox.Show(memes)
+        Next
+    End Sub
 End Class

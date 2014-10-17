@@ -1,0 +1,18 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\bin\Debug\Calculator Challenge.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\bin\Debug\Calculator Challenge.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\bin\Debug\Calculator Challenge.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\obj\x86\Debug\Calculator_Challenge.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\obj\x86\Debug\Calculator_Challenge.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\obj\x86\Debug\Calculator Challenge.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\obj\x86\Debug\Calculator Challenge.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\obj\x86\Debug\Calculator Challenge.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Calculator Challenge\obj\x86\Debug\Calculator Challenge.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\obj\x86\Debug\Calculator Challenge.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\obj\x86\Debug\Calculator Challenge.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\obj\x86\Debug\Calculator Challenge.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\bin\Debug\Calculator Challenge.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\bin\Debug\Calculator Challenge.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\bin\Debug\Calculator Challenge.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\obj\x86\Debug\Calculator_Challenge.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\obj\x86\Debug\Calculator_Challenge.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Calculator Challenge\Calculator Challenge\obj\x86\Debug\Calculator Challenge.vbproj.GenerateResource.Cache

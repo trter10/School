@@ -2,6 +2,7 @@
     'Luke Frazier
     'Grades
     '9/30/2014
+
     Private Sub btnShowGrade_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnShowGrade.Click
 
         'Assign grades to variables

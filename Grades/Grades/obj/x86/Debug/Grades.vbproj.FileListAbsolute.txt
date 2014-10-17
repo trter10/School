@@ -10,3 +10,9 @@ C:\Users\LAFrazier\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.
 \\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.exe
 \\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.xml
 \\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\bin\Debug\Grades.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\bin\Debug\Grades.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\bin\Debug\Grades.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Grades\Grades\obj\x86\Debug\Grades.vbproj.GenerateResource.Cache
