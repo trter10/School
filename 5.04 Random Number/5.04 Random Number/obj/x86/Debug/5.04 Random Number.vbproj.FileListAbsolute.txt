@@ -1,0 +1,18 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\bin\Debug\5.04 Random Number.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\bin\Debug\5.04 Random Number.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\bin\Debug\5.04 Random Number.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\obj\x86\Debug\_5._04_Random_Number.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\obj\x86\Debug\_5._04_Random_Number.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\obj\x86\Debug\5.04 Random Number.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\obj\x86\Debug\5.04 Random Number.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\obj\x86\Debug\5.04 Random Number.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\5.04 Random Number\obj\x86\Debug\5.04 Random Number.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\obj\x86\Debug\5.04 Random Number.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\obj\x86\Debug\5.04 Random Number.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\obj\x86\Debug\5.04 Random Number.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\bin\Debug\5.04 Random Number.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\bin\Debug\5.04 Random Number.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\bin\Debug\5.04 Random Number.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\obj\x86\Debug\_5._04_Random_Number.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\obj\x86\Debug\_5._04_Random_Number.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\5.04 Random Number\5.04 Random Number\obj\x86\Debug\5.04 Random Number.vbproj.GenerateResource.Cache
