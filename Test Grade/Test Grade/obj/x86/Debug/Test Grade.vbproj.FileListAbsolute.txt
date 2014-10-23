@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\bin\Debug\Test Grade.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\bin\Debug\Test Grade.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\bin\Debug\Test Grade.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\obj\x86\Debug\Test_Grade.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\obj\x86\Debug\Test_Grade.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\obj\x86\Debug\Test Grade.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\obj\x86\Debug\Test Grade.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\obj\x86\Debug\Test Grade.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Test Grade\Test Grade\obj\x86\Debug\Test Grade.pdb

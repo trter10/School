@@ -1,0 +1,27 @@
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\bin\Debug\ReadyForSchool.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\bin\Debug\ReadyForSchool.pdb
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\bin\Debug\ReadyForSchool.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\obj\x86\Debug\ReadyForSchool.Form1.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\obj\x86\Debug\ReadyForSchool.Resources.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\obj\x86\Debug\ReadyForSchool.vbproj.GenerateResource.Cache
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\obj\x86\Debug\ReadyForSchool.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\obj\x86\Debug\ReadyForSchool.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\ReadyForSchool\obj\x86\Debug\ReadyForSchool.pdb
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.exe
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.xml
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.pdb
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.exe
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.pdb
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.xml
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.Form1.resources
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.Resources.resources
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\obj\x86\Debug\ReadyForSchool.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.xml

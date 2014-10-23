@@ -1,0 +1,21 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\bin\Debug\If Formative Assessment.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\bin\Debug\If Formative Assessment.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\bin\Debug\If Formative Assessment.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\obj\x86\Debug\If_Formative_Assessment.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\obj\x86\Debug\If_Formative_Assessment.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\obj\x86\Debug\If Formative Assessment.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\obj\x86\Debug\If Formative Assessment.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\obj\x86\Debug\If Formative Assessment.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\If Formative Assessment\obj\x86\Debug\If Formative Assessment.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\bin\Debug\If Formative Assessment.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\bin\Debug\If Formative Assessment.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\bin\Debug\If Formative Assessment.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\obj\x86\Debug\If_Formative_Assessment.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\obj\x86\Debug\If_Formative_Assessment.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Nested If Formative Assessment\If Formative Assessment\obj\x86\Debug\If Formative Assessment.vbproj.GenerateResource.Cache
