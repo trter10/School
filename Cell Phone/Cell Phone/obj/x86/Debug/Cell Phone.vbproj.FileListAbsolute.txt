@@ -1,0 +1,21 @@
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\obj\x86\Debug\Cell_Phone.Form1.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\obj\x86\Debug\Cell_Phone.Resources.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\obj\x86\Debug\Cell Phone.vbproj.GenerateResource.Cache
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\bin\Debug\Cell Phone.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\bin\Debug\Cell Phone.pdb
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\bin\Debug\Cell Phone.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\obj\x86\Debug\Cell Phone.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\obj\x86\Debug\Cell Phone.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Cell Phone\obj\x86\Debug\Cell Phone.pdb
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.exe
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.xml
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\bin\Debug\Cell Phone.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\bin\Debug\Cell Phone.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\bin\Debug\Cell Phone.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\obj\x86\Debug\Cell_Phone.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\obj\x86\Debug\Cell_Phone.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\Cell Phone\Cell Phone\obj\x86\Debug\Cell Phone.vbproj.GenerateResource.Cache

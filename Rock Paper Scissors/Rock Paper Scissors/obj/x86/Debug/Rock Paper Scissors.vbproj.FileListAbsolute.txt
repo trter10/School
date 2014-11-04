@@ -1,0 +1,9 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock_Paper_Scissors.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb

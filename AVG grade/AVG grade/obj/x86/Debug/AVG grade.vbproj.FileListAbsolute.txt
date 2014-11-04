@@ -1,0 +1,24 @@
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\bin\Debug\AVG grade.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\bin\Debug\AVG grade.pdb
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\bin\Debug\AVG grade.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\obj\x86\Debug\AVG_grade.Form1.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\obj\x86\Debug\AVG_grade.Resources.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\obj\x86\Debug\AVG grade.vbproj.GenerateResource.Cache
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\obj\x86\Debug\AVG grade.exe
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\obj\x86\Debug\AVG grade.xml
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\AVG grade\obj\x86\Debug\AVG grade.pdb
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\AVG grade\AVG grade\obj\x86\Debug\AVG grade.exe
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\AVG grade\AVG grade\obj\x86\Debug\AVG grade.xml
+\\itsvs3\lcsstudents\acwinslow\my documents\visual studio 2010\Projects\AVG grade\AVG grade\obj\x86\Debug\AVG grade.pdb
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\obj\x86\Debug\AVG grade.exe
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\obj\x86\Debug\AVG grade.xml
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\obj\x86\Debug\AVG grade.pdb
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\bin\Debug\AVG grade.exe
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\bin\Debug\AVG grade.pdb
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\bin\Debug\AVG grade.xml
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\obj\x86\Debug\AVG_grade.Form1.resources
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\obj\x86\Debug\AVG_grade.Resources.resources
+C:\Users\LAFrazier\Desktop\AVG grade\AVG grade\obj\x86\Debug\AVG grade.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\AVG grade\AVG grade\obj\x86\Debug\AVG grade.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\AVG grade\AVG grade\obj\x86\Debug\AVG grade.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\AVG grade\AVG grade\obj\x86\Debug\AVG grade.pdb
