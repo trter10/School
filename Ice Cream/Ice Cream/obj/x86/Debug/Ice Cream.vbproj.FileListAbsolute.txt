@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\bin\Debug\Ice Cream.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\bin\Debug\Ice Cream.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\obj\x86\Debug\Ice_Cream.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\obj\x86\Debug\Ice_Cream.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\obj\x86\Debug\Ice Cream.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\obj\x86\Debug\Ice Cream.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\obj\x86\Debug\Ice Cream.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Ice Cream\Ice Cream\obj\x86\Debug\Ice Cream.pdb

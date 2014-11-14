@@ -1,0 +1,27 @@
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\bin\Debug\WorldWar2.pdb
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\bin\Debug\WorldWar2.xml
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.Form1.resources
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.Resources.resources
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.exe
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.xml
+\\itsvs3\lcsusers\ahelms\my documents\visual studio 2010\Projects\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.pdb
+\\itsvs3\lcsusers\ahelms\My Documents\Visual Studio 2010\Projects\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.exe
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.xml
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.pdb
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\bin\Debug\WorldWar2.pdb
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\bin\Debug\WorldWar2.xml
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.Form1.resources
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.Resources.resources
+C:\Users\LAFrazier\Desktop\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\bin\Debug\WorldWar2.pdb
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\bin\Debug\WorldWar2.xml
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.Form1.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.Resources.resources
+\\itsvs3\LCSStudents\LAFrazier\My Documents\GitHub\School\WorldWar2\WorldWar2\obj\x86\Debug\WorldWar2.vbproj.GenerateResource.Cache

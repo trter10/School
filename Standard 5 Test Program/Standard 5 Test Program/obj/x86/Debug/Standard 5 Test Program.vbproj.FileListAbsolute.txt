@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\bin\Debug\Standard 5 Test Program.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\bin\Debug\Standard 5 Test Program.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\bin\Debug\Standard 5 Test Program.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\obj\x86\Debug\Standard_5_Test_Program.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\obj\x86\Debug\Standard_5_Test_Program.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\obj\x86\Debug\Standard 5 Test Program.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\obj\x86\Debug\Standard 5 Test Program.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\obj\x86\Debug\Standard 5 Test Program.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Standard 5 Test Program\Standard 5 Test Program\obj\x86\Debug\Standard 5 Test Program.pdb

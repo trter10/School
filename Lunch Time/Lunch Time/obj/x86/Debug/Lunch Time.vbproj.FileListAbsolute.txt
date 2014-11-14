@@ -1,0 +1,18 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\bin\Debug\Lunch Time.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\bin\Debug\Lunch Time.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\bin\Debug\Lunch Time.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\obj\x86\Debug\Lunch_Time.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\obj\x86\Debug\Lunch_Time.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\obj\x86\Debug\Lunch Time.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\obj\x86\Debug\Lunch Time.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\obj\x86\Debug\Lunch Time.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Lunch Time\obj\x86\Debug\Lunch Time.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\obj\x86\Debug\Lunch Time.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\obj\x86\Debug\Lunch Time.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\obj\x86\Debug\Lunch Time.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\bin\Debug\Lunch Time.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\bin\Debug\Lunch Time.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\bin\Debug\Lunch Time.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\obj\x86\Debug\Lunch_Time.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\obj\x86\Debug\Lunch_Time.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Lunch Time\Lunch Time\obj\x86\Debug\Lunch Time.vbproj.GenerateResource.Cache
