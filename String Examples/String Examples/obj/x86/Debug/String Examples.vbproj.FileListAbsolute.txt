@@ -1,0 +1,9 @@
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\bin\Debug\String Examples.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\bin\Debug\String Examples.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\bin\Debug\String Examples.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\obj\x86\Debug\String_Examples.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\obj\x86\Debug\String_Examples.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\obj\x86\Debug\String Examples.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\obj\x86\Debug\String Examples.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\obj\x86\Debug\String Examples.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\String Examples\String Examples\obj\x86\Debug\String Examples.pdb

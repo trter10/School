@@ -1,0 +1,12 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\bin\Debug\Rates.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\bin\Debug\Rates.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\bin\Debug\Rates.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Rates\obj\x86\Debug\Rates.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Rates\Rates\obj\x86\Debug\Rates.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Rates\Rates\obj\x86\Debug\Rates.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Rates\Rates\obj\x86\Debug\Rates.pdb

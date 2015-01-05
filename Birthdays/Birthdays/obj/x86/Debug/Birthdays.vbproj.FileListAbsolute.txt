@@ -1,0 +1,12 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\bin\Debug\Birthdays.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\bin\Debug\Birthdays.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\bin\Debug\Birthdays.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\obj\x86\Debug\Birthdays.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\obj\x86\Debug\Birthdays.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\obj\x86\Debug\Birthdays.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\obj\x86\Debug\Birthdays.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\obj\x86\Debug\Birthdays.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Birthdays\obj\x86\Debug\Birthdays.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Birthdays\Birthdays\obj\x86\Debug\Birthdays.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Birthdays\Birthdays\obj\x86\Debug\Birthdays.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Birthdays\Birthdays\obj\x86\Debug\Birthdays.pdb

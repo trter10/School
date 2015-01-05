@@ -1,0 +1,19 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\bin\Debug\Piggy Bank.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\bin\Debug\Piggy Bank.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\bin\Debug\Piggy Bank.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\obj\x86\Debug\Piggy_Bank.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\obj\x86\Debug\Piggy_Bank.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\obj\x86\Debug\Piggy Bank.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\obj\x86\Debug\Piggy Bank.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\obj\x86\Debug\Piggy Bank.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Piggy Bank\obj\x86\Debug\Piggy Bank.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy Bank.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy Bank.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy Bank.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\bin\Debug\Piggy Bank.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\bin\Debug\Piggy Bank.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\bin\Debug\Piggy Bank.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy_Bank.Form1.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy_Bank.Resources.resources
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy Bank.vbproj.GenerateResource.Cache
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Piggy Bank\Piggy Bank\obj\x86\Debug\Piggy_Bank.About.resources

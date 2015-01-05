@@ -1,0 +1,12 @@
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\bin\Debug\Shakespearean Insults.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\bin\Debug\Shakespearean Insults.pdb
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\bin\Debug\Shakespearean Insults.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\obj\x86\Debug\Shakespearean_Insults.Form1.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\obj\x86\Debug\Shakespearean_Insults.Resources.resources
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.vbproj.GenerateResource.Cache
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.exe
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.xml
+C:\Users\LAFrazier\AppData\Local\Temporary Projects\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.pdb
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Shakespearean Insults\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.exe
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Shakespearean Insults\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.xml
+\\itsvs3\lcsstudents\LAFrazier\My Documents\GitHub\School\Shakespearean Insults\Shakespearean Insults\obj\x86\Debug\Shakespearean Insults.pdb
