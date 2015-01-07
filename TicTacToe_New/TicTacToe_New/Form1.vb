@@ -9,12 +9,12 @@ Public Class Form1
     Dim intOWins As Integer
     Dim blnCurrentPlayer = True 'True = X, False = O - No need to waste the memory for a string
     Dim blnComputerOpponent As Boolean = True 'Note that computer is always the O player
-    Dim arrAvailButtons As Array = {1, 2, 3, 4, 5, 6, 7, 8, 9}
+    Dim arrAvailButtons(8) As Integer
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Set starting values
-        MessageBox.Show(arrAvailButtons.Length)
         cboOpponent.SelectedIndex = 0
+        OnBoardStateChange()
     End Sub
 
     Private Sub Button_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn1.Click, btn2.Click, btn3.Click, btn4.Click, btn5.Click, btn6.Click, btn7.Click, btn8.Click, btn9.Click
@@ -56,45 +56,53 @@ Public Class Form1
         'Fix this garbage
         Dim rand As New System.Random
         Dim intRand As Integer = rand.Next(-1, arrAvailButtons.Length - 1)
-        If Random = 1 And btnOne.Enabled = True Then
-            btnOne.Text = "O"
-            btnOne.Enabled = False
+        If intRand = 1 And btn1.Enabled = True Then
+            btn1.Text = "O"
+            btn1.Enabled = False
         End If
-        If Random = 1 And btnTwo.Enabled = True Then
-            btnTwo.Text = "O"
-            btnTwo.Enabled = False
+        If intRand = 1 And btn2.Enabled = True Then
+            btn2.Text = "O"
+            btn2.Enabled = False
         End If
-        If Random = 1 And btnThree.Enabled = True Then
-            btnThree.Text = "O"
-            btnThree.Enabled = False
+        If intRand = 1 And btn3.Enabled = True Then
+            btn3.Text = "O"
+            btn3.Enabled = False
         End If
-        If Random = 1 And btnFour.Enabled = True Then
-            btnFour.Text = "O"
-            btnFour.Enabled = False
+        If intRand = 1 And btn4.Enabled = True Then
+            btn4.Text = "O"
+            btn4.Enabled = False
         End If
-        If Random = 1 And btnFive.Enabled = True Then
-            btnFive.Text = "O"
-            btnFive.Enabled = False
+        If intRand = 1 And btn5.Enabled = True Then
+            btn5.Text = "O"
+            btn5.Enabled = False
         End If
-        If Random = 1 And btnSix.Enabled = True Then
-            btnSix.Text = "O"
-            btnSix.Enabled = False
+        If intRand = 1 And btn6.Enabled = True Then
+            btn6.Text = "O"
+            btn6.Enabled = False
         End If
-        If Random = 1 And btnSeven.Enabled = True Then
-            btnSeven.Text = "O"
-            btnSeven.Enabled = False
+        If intRand = 1 And btn7.Enabled = True Then
+            btn7.Text = "O"
+            btn7.Enabled = False
         End If
-        If Random = 1 And btnEight.Enabled = True Then
-            btnEight.Text = "O"
-            btnEight.Enabled = False
+        If intRand = 1 And btn8.Enabled = True Then
+            btn8.Text = "O"
+            btn8.Enabled = False
         End If
-        If Random = 1 And btnNine.Enabled = True Then
-            btnNine.Text = "O"
-            btnNine.Enabled = False
+        If intRand = 1 And btn9.Enabled = True Then
+            btn9.Text = "O"
+            btn9.Enabled = False
         End If
     End Sub
 
     Public Sub OnBoardStateChange()
+        Dim intCounter As Integer = -1
+        For Each ctrl As Control In Panel1.Controls
+            If ctrl.Enabled Then
+                intCounter += 1
+                ReDim Preserve arrAvailButtons(intCounter)
+                arrAvailButtons(intCounter) = Convert.ToInt32(ctrl.Name.Substring(3))
+            End If
+        Next
         'DO THE THING WITH THE ARRAY
         'For each ctrl counter then dim then set values
     End Sub
@@ -107,7 +115,7 @@ Public Class Form1
     Public Sub ClearBoard() Handles btnClear.Click
         For Each ctrl As Control In Panel1.Controls
             ctrl.Text = Nothing
-            ctrl.Enabled = True
+            'ctrl.Enabled = True
         Next
     End Sub
 
