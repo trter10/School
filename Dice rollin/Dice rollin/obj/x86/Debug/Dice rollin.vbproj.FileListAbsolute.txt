@@ -1,0 +1,21 @@
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Dice rollin\obj\x86\Debug\Dice_rollin.Form1.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Dice rollin\obj\x86\Debug\Dice_rollin.Resources.resources
+C:\Users\ACWinslow\AppData\Local\Temporary Projects\Dice rollin\obj\x86\Debug\Dice rollin.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\bin\Debug\Dice rollin.exe
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\bin\Debug\Dice rollin.pdb
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\bin\Debug\Dice rollin.xml
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\obj\x86\Debug\Dice_rollin.Form1.resources
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\obj\x86\Debug\Dice_rollin.Resources.resources
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.vbproj.GenerateResource.Cache
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.exe
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.xml
+\\itsvs3\LCSStudents\ACWinslow\My Documents\Visual Studio 2010\Projects\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.pdb
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.exe
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.xml
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.pdb
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\bin\Debug\Dice rollin.exe
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\bin\Debug\Dice rollin.pdb
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\bin\Debug\Dice rollin.xml
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\obj\x86\Debug\Dice_rollin.Form1.resources
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\obj\x86\Debug\Dice_rollin.Resources.resources
+C:\Users\LAFrazier\Desktop\Dice rollin\Dice rollin\obj\x86\Debug\Dice rollin.vbproj.GenerateResource.Cache
