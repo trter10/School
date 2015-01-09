@@ -1,6 +1,4 @@
-﻿Imports System.Runtime.InteropServices
-
-Public Class Form1
+﻿Public Class Form1
     'Luke Frazier
     'A long time
     'Tic Tac Toe
@@ -50,48 +48,43 @@ Public Class Form1
         End Select
         blnCurrentPlayer = If(blnCurrentPlayer, False, True)
         CheckWinner()
+        PCMove()
     End Sub
 
-    Public Sub PC()
+    Public Sub PCMove()
         'Fix this garbage
         Dim rand As New System.Random
-        Dim intRand As Integer = rand.Next(-1, arrAvailButtons.Length - 1)
-        If intRand = 1 And btn1.Enabled = True Then
-            btn1.Text = "O"
-            btn1.Enabled = False
-        End If
-        If intRand = 1 And btn2.Enabled = True Then
-            btn2.Text = "O"
-            btn2.Enabled = False
-        End If
-        If intRand = 1 And btn3.Enabled = True Then
-            btn3.Text = "O"
-            btn3.Enabled = False
-        End If
-        If intRand = 1 And btn4.Enabled = True Then
-            btn4.Text = "O"
-            btn4.Enabled = False
-        End If
-        If intRand = 1 And btn5.Enabled = True Then
-            btn5.Text = "O"
-            btn5.Enabled = False
-        End If
-        If intRand = 1 And btn6.Enabled = True Then
-            btn6.Text = "O"
-            btn6.Enabled = False
-        End If
-        If intRand = 1 And btn7.Enabled = True Then
-            btn7.Text = "O"
-            btn7.Enabled = False
-        End If
-        If intRand = 1 And btn8.Enabled = True Then
-            btn8.Text = "O"
-            btn8.Enabled = False
-        End If
-        If intRand = 1 And btn9.Enabled = True Then
-            btn9.Text = "O"
-            btn9.Enabled = False
-        End If
+        Dim intRand As Integer = rand.Next(arrAvailButtons.Length)
+        Select Case arrAvailButtons(intRand)
+            Case 1
+                btn1.Enabled = False
+                btn1.Text = If(blnCurrentPlayer, "X", "O")
+            Case 2
+                btn2.Enabled = False
+                btn2.Text = If(blnCurrentPlayer, "X", "O")
+            Case 3
+                btn3.Enabled = False
+                btn3.Text = If(blnCurrentPlayer, "X", "O")
+            Case 4
+                btn4.Enabled = False
+                btn4.Text = If(blnCurrentPlayer, "X", "O")
+            Case 5
+                btn5.Enabled = False
+                btn5.Text = If(blnCurrentPlayer, "X", "O")
+            Case 6
+                btn6.Enabled = False
+                btn6.Text = If(blnCurrentPlayer, "X", "O")
+            Case 7
+                btn7.Enabled = False
+                btn7.Text = If(blnCurrentPlayer, "X", "O")
+            Case 8
+                btn8.Enabled = False
+                btn8.Text = If(blnCurrentPlayer, "X", "O")
+            Case 9
+                btn9.Enabled = False
+                btn9.Text = If(blnCurrentPlayer, "X", "O")
+        End Select
+        OnBoardStateChange()
     End Sub
 
     Public Sub OnBoardStateChange()
@@ -103,8 +96,6 @@ Public Class Form1
                 arrAvailButtons(intCounter) = Convert.ToInt32(ctrl.Name.Substring(3))
             End If
         Next
-        'DO THE THING WITH THE ARRAY
-        'For each ctrl counter then dim then set values
     End Sub
 
     Private Sub cboOpponent_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cboOpponent.SelectedIndexChanged
